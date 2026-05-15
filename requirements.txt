@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+pytesseract
+opencv-python
+numpy
+pillow
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+requests
